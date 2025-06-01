@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: Insurance
-        image: prashanthdruva/docker_Insurance:latest
+        image: prashanthdruva/docker_insurance:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8081
